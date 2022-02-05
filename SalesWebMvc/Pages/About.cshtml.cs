@@ -9,10 +9,12 @@ namespace SalesWebMvc.Pages
     public class AboutModel : PageModel
     {
         public string Message { get; set; }
+        public string Aluno { get; set; }
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "Salles Web MVC App from C# Course.";
+            Aluno = "Jadiael Monteiro Bezerra";
         }
     }
 }
