@@ -34,4 +34,3 @@ C:\Projetos\salesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWeb
 C:\Projetos\salesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Projetos\salesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Projetos\salesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Pages\Models\ViewModels\Error.cshtml.g.cs
-C:\Projetos\salesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Pages\Views\Departments\Index.cshtml.g.cs
